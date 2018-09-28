@@ -176,3 +176,46 @@ http://94.23.21.201:8080/live/castro/castro/7691.ts
 http://94.23.21.201:8080/live/castro/castro/7685.ts
 #EXTINF:-1,USA: WWE HD
 http://94.23.21.201:8080/live/castro/castro/7683.ts
+#EXTM3U
+#EXTINF:-1,NL: Discovery Channel
+http://94.23.21.201:8080/live/ilidio/ilidio/3081.ts
+#EXTINF:-1,NL: Disney Channel
+http://94.23.21.201:8080/live/ilidio/ilidio/3080.ts
+#EXTINF:-1,NL: Film 1 Action
+http://94.23.21.201:8080/live/ilidio/ilidio/3079.ts
+#EXTINF:-1,NL: Film 1 Drama
+http://94.23.21.201:8080/live/ilidio/ilidio/3078.ts
+#EXTINF:-1,NL: Film 1 Sundance
+http://94.23.21.201:8080/live/ilidio/ilidio/3077.ts
+#EXTINF:-1,NL: Fox Sports 1
+http://94.23.21.201:8080/live/ilidio/ilidio/3076.ts
+#EXTINF:-1,NL: Fox Sports 2
+http://94.23.21.201:8080/live/ilidio/ilidio/3075.ts
+#EXTINF:-1,NL: Fox Sports 3
+http://94.23.21.201:8080/live/ilidio/ilidio/3074.ts
+#EXTINF:-1,NL: Fox Sports 4
+http://94.23.21.201:8080/live/ilidio/ilidio/3073.ts
+#EXTINF:-1,NL: Fox Sports 5
+http://94.23.21.201:8080/live/ilidio/ilidio/3072.ts
+#EXTINF:-1,NL: Fox Sports 6
+http://94.23.21.201:8080/live/ilidio/ilidio/3071.ts
+#EXTINF:-1,NL: Nat Geo Wild HD
+http://94.23.21.201:8080/live/ilidio/ilidio/3070.ts
+#EXTINF:-1,NL: NICKELODEON
+http://94.23.21.201:8080/live/ilidio/ilidio/3068.ts
+#EXTINF:-1,NL: NPO 1
+http://94.23.21.201:8080/live/ilidio/ilidio/3067.ts
+#EXTINF:-1,NL: NPO 2
+http://94.23.21.201:8080/live/ilidio/ilidio/3066.ts
+#EXTINF:-1,NL: RTL 4
+http://94.23.21.201:8080/live/ilidio/ilidio/3065.ts
+#EXTINF:-1,NL: RTL 5
+http://94.23.21.201:8080/live/ilidio/ilidio/3064.ts
+#EXTINF:-1,NL: RTL 7
+http://94.23.21.201:8080/live/ilidio/ilidio/3063.ts
+#EXTINF:-1,NL: RTL 8
+http://94.23.21.201:8080/live/ilidio/ilidio/3062.ts
+#EXTINF:-1,NL: SBS 6
+http://94.23.21.201:8080/live/ilidio/ilidio/3069.ts
+#EXTINF:-1,NL: Ziggo Sport Select
+http://94.23.21.201:8080/live/ilidio/ilidio/3061.ts
