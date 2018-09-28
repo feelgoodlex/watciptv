@@ -3,6 +3,55 @@
 
 
 
+#EXTM3U
+#EXTINF:2,NL: FILM 1 ACTION
+http://217.182.173.184:8000/live/micha/micha/552.ts
+#EXTINF:0,NL: FILM 1 COMEDY
+http://217.182.173.184:8000/live/micha/micha/551.ts
+#EXTINF:0,NL: FILM 1 PREMIERE
+http://217.182.173.184:8000/live/micha/micha/550.ts
+#EXTINF:0,NL: FILM 1 SPOTLIGHT
+http://217.182.173.184:8000/live/micha/micha/549.ts
+#EXTINF:0,NL: FILM 1 SUNDANCE
+http://217.182.173.184:8000/live/micha/micha/548.ts
+#EXTINF:0,NL: FOX SPORT 1
+http://217.182.173.184:8000/live/micha/micha/545.ts
+#EXTINF:0,NL: FOX SPORT 2
+http://217.182.173.184:8000/live/micha/micha/544.ts
+#EXTINF:0,NL: FOX SPORT 3
+http://217.182.173.184:8000/live/micha/micha/543.ts
+#EXTINF:0,NL: FOX SPORT 4
+http://217.182.173.184:8000/live/micha/micha/542.ts
+#EXTINF:0,NL: FOX SPORT 5
+http://217.182.173.184:8000/live/micha/micha/541.ts
+#EXTINF:0,NL: HBO 1
+http://217.182.173.184:8000/live/micha/micha/561.ts
+#EXTINF:0,NL: HBO 2
+http://217.182.173.184:8000/live/micha/micha/560.ts
+#EXTINF:0,NL: HBO 3
+http://217.182.173.184:8000/live/micha/micha/559.ts
+#EXTINF:0,NL: NICKELODEON
+http://217.182.173.184:8000/live/micha/micha/547.ts
+#EXTINF:0,NL: NPO 1
+http://217.182.173.184:8000/live/micha/micha/564.ts
+#EXTINF:0,NL: NPO 2
+http://217.182.173.184:8000/live/micha/micha/563.ts
+#EXTINF:0,NL: NPO 3
+http://217.182.173.184:8000/live/micha/micha/562.ts
+#EXTINF:0,NL: RTL 4
+http://217.182.173.184:8000/live/micha/micha/556.ts
+#EXTINF:0,NL: RTL 5
+http://217.182.173.184:8000/live/micha/micha/555.ts
+#EXTINF:0,NL: RTL 7
+http://217.182.173.184:8000/live/micha/micha/554.ts
+#EXTINF:0,NL: RTL 8
+http://217.182.173.184:8000/live/micha/micha/553.ts
+#EXTINF:0,NL: SBS 6
+http://217.182.173.184:8000/live/micha/micha/558.ts
+#EXTINF:0,NL: SBS 9
+http://217.182.173.184:8000/live/micha/micha/557.ts
+#EXTINF:0,NL: VERONICA DISNEY XD
+http://217.182.173.184:8000/live/micha/micha/546.ts
 
 
 
