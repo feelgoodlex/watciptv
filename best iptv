@@ -1,24 +1,16 @@
+#EXTINF:0 group-title="(XXX) Adult",XXX: CLARO ADULTO 
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2078.m3u8
+#EXTINF:0 group-title="(XXX) Adult",XXX: MEIDEN VAN HOLLAND 
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2073.m3u8
+#EXTINF:0,ANIMAL PLANET 
+http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/25173.m3u8
+#EXTINF:0,COMEDY CENTRAL 
+http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/25178.m3u8
 #EXTINF:0,FILM 1 ACTION 
 http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/202.m3u8
-#EXTINF:0,FILM 1 COMEDY 
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/551.m3u8
-#EXTINF:0,FILM 1 DRAMA 
-http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/3027.m3u8
-#EXTINF:0,FILM 1 PREMIERE 
-http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/301.m3u8
-#EXTINF:0,FILM 1 SPOTLIGHT 
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/549.m3u8
-#EXTINF:0,FILM 1 SUNDANCE 
-http://nadorone.no-ip.org:25461/live/mtg/skype/6407.m3u8
-#EXTINF:0,HBO 1 
-http://nadorone.no-ip.org:25461/live/mtg/skype/6393.m3u8
-#EXTINF:0,HBO2 
-http://nasaiptv.com:8000/live/Scott/Scott123/13965.m3u8
-#EXTINF:0,HBO3 
-http://nasaiptv.com:8000/live/Scott/Scott123/13964.m3u8
-#EXTINF:0,SLAM! TV 
-http://hls.slam.nl/streaming/hls/SLAM!/lower_500000/playlist.m3u8
-#EXTINF:0 group-title="(XXX) Adult",XXX: PINK EROTIK 6 
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2066.m3u8
-#EXTINF:0 group-title="(XXX) Adult",XXX: VIP 18 
-http://emiratesiptv.net:2500/live/oaeJQOhc6L/50rGlW7YWf/4408.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",NL: ZIGGO SPORT 
+http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/601.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",NL: ZIGGO SPORT RACING 
+http://nasaiptv.com:8000/live/Scott/Scott123/2949.m3u8
+#EXTINF:0 group-title="(XXX) Adult",XXX: PINK EROTIK 5 
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2067.m3u8
